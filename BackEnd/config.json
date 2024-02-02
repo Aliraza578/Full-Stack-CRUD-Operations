@@ -1,0 +1,15 @@
+ {
+    "db" : {
+        "username" : "postgres",
+        "password" : "96869686",
+        "host" : "localhost",
+        "port" : 5432,
+        "logging" : false,
+        "dialect" : "postgres",
+        "database" : "testDb"
+    },
+    "jwtSecret": {
+      "key": "4555688d92af181e093367c4b91543a29755c9c8d7c073f5b3fbd18e854a148ef01ad5fcbba8c1c66db43ae6ba6ff955"
+    }
+}
+
